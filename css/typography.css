@@ -1,0 +1,5 @@
+body {
+	font-size: calc(12px + (18 - 12) * ((100vw - 380px) / (1440 - 380)));
+    line-height: 1.618;
+    font-weight: 300;
+}
